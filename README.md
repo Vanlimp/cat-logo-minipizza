@@ -1,4 +1,4 @@
-## Catálogo de Minipizzas: Uma Deliciosa Jornada pela Web!
+## Catálogo de Minipizzas: Uma Deliciosa Jornada pela Web! - Imersão Dev com Google Gemini
 
 **O que é esse negócio?**
 
