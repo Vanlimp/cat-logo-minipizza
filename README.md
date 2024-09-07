@@ -1,4 +1,3 @@
-```markdown
 ## Catálogo de Minipizzas: Uma Deliciosa Jornada pela Web!
 
 **O que é esse negócio?**
@@ -41,4 +40,3 @@ Se você é um desenvolvedor e quer dar uma força nesse projeto, fique à vonta
 **#minipizza #html #css #javascript #desenvolvimentoweb #pizza #códigoaberto**
 
 **Observação:** Adapte este README.md para o seu projeto específico, incluindo informações como o link do repositório, as licenças utilizadas e outros detalhes relevantes.
-```
